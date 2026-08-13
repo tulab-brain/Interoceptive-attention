@@ -9,4 +9,3 @@ This repository contains the analysis code for the paper:
 
 The data supporting the findings of this study will be made publicly available upon article acceptance.
 
-## 📁 Repository Structure
